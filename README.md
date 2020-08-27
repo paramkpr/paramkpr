@@ -21,7 +21,7 @@ I am available to work on a freelance basis. Find my contact info below:
 [Website](https://www.paramkapur.com) •
 [Instagram](https://www.instagram.com/param_kpr/) •
 [Twitter](https://twitter.com/ParamKapur) •
-[LinkedIn]https://www.linkedin.com/in/param-kapur-898475163/) •
+[LinkedIn](https://www.linkedin.com/in/param-kapur-898475163/) •
 [Mail](mailto:paramkapur2002@gmail.com)
 
 
