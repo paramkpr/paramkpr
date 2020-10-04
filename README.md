@@ -23,14 +23,14 @@ I am available to work on a freelance basis. Find my contact info below:
 [LinkedIn](https://www.linkedin.com/in/param-kapur-898475163/) •
 [Mail](mailto:paramkapur2002@gmail.com)
 
-[![Param's github stats](https://github-readme-stats.vercel.app/api?username=paramkpr&show_icons=true&count_private=true&theme=dracula)]
+![Param's github stats](https://github-readme-stats.vercel.app/api?username=paramkpr&show_icons=true&count_private=true&theme=dracula)
 
 A Bit More about me: 
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working freelance for the [The Orange Yak Co.](https://theorangeyak.co).
 - 💬 Ask me about my position on the text-editor battle. 
-- ⚡ Fun fact: I know how to tie 12 different knots blindfolded! 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paramkpr)]
+- ⚡ Fun fact: I know how to tie 12 different knots blindfolded!    
+
 
 <!--
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V421KHZ)
