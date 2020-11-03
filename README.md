@@ -25,8 +25,6 @@ I am available to work on a freelance basis. Find my contact info below:
 
 ![Param's github stats](https://github-readme-stats.vercel.app/api?username=paramkpr&show_icons=true&count_private=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paramkpr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 A Bit More about me: 
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working freelance for the [The Orange Yak Co.](https://theorangeyak.co).
