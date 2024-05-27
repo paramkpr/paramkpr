@@ -23,7 +23,6 @@ I am available to work on a freelance basis. Find my contact info below:
 [LinkedIn](https://www.linkedin.com/in/param-kapur-898475163/) •
 [Mail](mailto:paramkapur2002@gmail.com)
 
-![Param's github stats](https://github-readme-stats.vercel.app/api?username=paramkpr&show_icons=true&count_private=true&theme=dracula)
 
 A Bit More about me: 
 - 😄 Pronouns: He/Him/His
