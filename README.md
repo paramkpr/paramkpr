@@ -27,8 +27,8 @@ I am available to work on a freelance basis. Find my contact info below:
 
 A Bit More about me: 
 - 😄 Pronouns: He/Him/His
-- 🔭 I’m currently working freelance for the [The Orange Yak Co.](https://theorangeyak.co).
-- 💬 Ask me about my position on the text-editor battle. 
+- 🔭 Co-founder [Orange Yak](https://theorangeyak.co).
+- Reed 25
 - ⚡ Fun fact: I know how to tie 12 different knots blindfolded!    
 
 
