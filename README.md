@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a full-stack web developer, but my forte is backend. 
-I am available to work on a freelance basis. Find my contact info below: 
+Building [froura](https://froura.xyz). Find my contact info below: 
 
 [Website](https://www.paramkapur.com) •
 [Instagram](https://www.instagram.com/param_kpr/) •
